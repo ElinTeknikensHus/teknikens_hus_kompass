@@ -1,5 +1,5 @@
 # IFC2023 kompass
-## Kompass (med full tutorial)
+## Kompass (med full tutorial) @unplugged
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/ElinTeknikensHus/esero_test/blob/master/logotyp%20esero-sweden_svart.png?raw=true" alt="DampVibrations" width="300"/>
   <img src="https://github.com/ElinTeknikensHus/esero_test/blob/master/TH-logo-liggande-svart%403x.png?raw=true" alt="DampVibrations" width="300"/>
