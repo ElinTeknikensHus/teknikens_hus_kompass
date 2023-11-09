@@ -112,12 +112,3 @@ basic.forever(function(){
 
  ## Ladda ner och testa!
 
-<div style="display: flex; justify-content: space-around;">
-  <div>
-    <p>Klicka på den lila knappen "Ladda ned" för att ladda ner koden till din micro:bit.</p>
-  </div>
-  <div>
-    <p>Följ eventuella instruktioner för att kalibrera din kompass.</p>
-    <p>`||logic:Skulle din kompass fungera på ISS?||`</p>
-  </div>
-</div>
