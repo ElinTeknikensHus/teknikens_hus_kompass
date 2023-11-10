@@ -14,7 +14,6 @@ basic.forever(function(){
 })
  ```
 
-kompass_tutorial_svenska
 ## Kompassen kräver logik!
 `||logic:Om||` `||variables:grader||` är `||logic:mindre än||` 45, så pekar kompassen mest mot norr (av de fyra väderstrecken). `||basic:Visa||` N på micro:biten.
 
